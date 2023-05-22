@@ -1,0 +1,43 @@
+
+# File temporanei
+*.tmp
+
+# Cartelle generate dal sistema
+.DS_Store
+Thumbs.db
+
+# Dipendenze / cartelle generiche
+/node_modules/
+/dist/
+/build/
+
+# File class generati dal compilatore Java
+*.class
+
+# File JAR generati dal build
+*.jar
+
+# Directory target
+/target/
+
+# Directory di output del build
+/build/
+
+# File di configurazione IDE
+.idea/
+
+# Dipendenze Maven
+/.m2/
+
+# File di log
+*.log
+
+# File di configurazione di Eclipse
+.settings/
+
+# File generati da IDE
+*.iml
+*.ipr
+*.iws
+*.prefs
+
